@@ -19,11 +19,6 @@
  * http://www.w3.org/TR/file-writer-api/
  * http://caniuse.com/filesystem
 
-
-=standarts=
- * http://www.w3.org/TR/SVG/Overview.html
- * http://www.w3.org/TR/file-writer-api/
-
 =unit testing=
  * http://qunitjs.com/
 
@@ -31,10 +26,12 @@
  * http://code.google.com/p/fnisvgeditor/
  * https://code.google.com/p/svg-edit/
 
-=other=
- * http://stackoverflow.com/questions/9655594/animation-svg-or-canvas
+=svg libs=
  * http://raphaeljs.com/
  * http://d3js.org/
+
+=other=
+ * http://stackoverflow.com/questions/9655594/animation-svg-or-canvas
  * http://seb.ly/2009/09/simple-3d-in-html5-canvas/
  * http://www.truehitdesigns.com/web-design-news/html5-javascript-opengl-upcoming-3d-internet-technologies-business/
  * http://www.kevs3d.co.uk/dev/
