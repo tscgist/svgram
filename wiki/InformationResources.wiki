@@ -21,6 +21,7 @@
 
 =unit testing=
  * http://qunitjs.com/
+ * https://github.com/bitzesty/qunit-mock
 
 =in-browser graphic editors=
  * http://code.google.com/p/fnisvgeditor/
