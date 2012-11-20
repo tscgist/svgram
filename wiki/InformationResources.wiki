@@ -27,6 +27,10 @@
 =unit testing=
  * http://qunitjs.com/
 
+=in-browser graphic editors=
+ * http://code.google.com/p/fnisvgeditor/
+ * https://code.google.com/p/svg-edit/
+
 =other=
  * http://stackoverflow.com/questions/9655594/animation-svg-or-canvas
  * http://raphaeljs.com/
@@ -37,4 +41,3 @@
  * http://www.kevs3d.co.uk/dev/canvask3d/k3d_test.html
  * http://www.html5gamedevs.com/2012/02/23/remake-blockout-3d-tetris-html-5/
  * http://alteredqualia.com/cubeout/
- * http://code.google.com/p/fnisvgeditor/
