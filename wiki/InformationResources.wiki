@@ -1,0 +1,40 @@
+#summary Some information resources
+
+=html5=
+http://www.tutorialspoint.com/html5/index.htm
+http://www.html5rocks.com/en/tutorials/
+
+=dom=
+http://reference.sitepoint.com/javascript/Document/getElementById
+
+=svg=
+http://www.w3.org/TR/SVG
+http://dev.opera.com/articles/view/svg-evolution-2-our-first-steps-into-sv/
+
+=drug-drop=
+http://www.tutorialspoint.com/html5/html5_drag_drop.htm
+http://caniuse.com/#feat=dragndrop
+
+=file writing=
+http://www.w3.org/TR/file-writer-api/
+http://caniuse.com/filesystem
+
+
+=standarts=
+http://www.w3.org/TR/SVG/Overview.html
+http://www.w3.org/TR/file-writer-api/
+
+=unit testing=
+http://qunitjs.com/
+
+=other=
+http://stackoverflow.com/questions/9655594/animation-svg-or-canvas
+http://raphaeljs.com/
+http://d3js.org/
+http://seb.ly/2009/09/simple-3d-in-html5-canvas/
+http://www.truehitdesigns.com/web-design-news/html5-javascript-opengl-upcoming-3d-internet-technologies-business/
+http://www.kevs3d.co.uk/dev/
+http://www.kevs3d.co.uk/dev/canvask3d/k3d_test.html
+http://www.html5gamedevs.com/2012/02/23/remake-blockout-3d-tetris-html-5/
+http://alteredqualia.com/cubeout/
+http://code.google.com/p/fnisvgeditor/
