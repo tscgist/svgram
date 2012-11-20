@@ -1,0 +1,8 @@
+#summary Feature prioritated list
+
+= Features =
+
+ * Paper for diagram drawing - parital implemented
+ * Toolbar - not implemented
+ * Rectangular shape - not implemented
+ *
