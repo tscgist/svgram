@@ -1,0 +1,5 @@
+#summary Design notes
+
+= DOM creation =
+
+The testability requirement satisfaction is much easier when we fill the DOM model programmatically. In this case the application structure resembles standard one, such as MVC model and other.
