@@ -3,6 +3,9 @@
 = Features =
 
  * Paper for diagram drawing - parital implemented
- * Toolbar - not implemented
- * Rectangular shape - not implemented
- *
+ * Toolbar
+ * Rectangular shape
+ * Keep on redraw
+ * Save
+ * Print
+ * Load
