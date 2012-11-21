@@ -15,6 +15,9 @@
  * http://commons.wikimedia.org/wiki/Category:SVG_Inkscape_icons
  * http://raphaeljs.com/icons/
 
+=animation=
+ * zoom: http://ie.microsoft.com/testdrive/Graphics/OrganizationChart/Default.xhtml
+
 =drag-drop=
  * http://www.tutorialspoint.com/html5/html5_drag_drop.htm
  * http://caniuse.com/#feat=dragndrop
