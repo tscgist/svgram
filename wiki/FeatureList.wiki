@@ -2,8 +2,8 @@
 
 = Features =
 
- * Paper for diagram drawing - parital implemented
- * Toolbar
+ * Paper for diagram drawing - parital
+ * Toolbar - parital
  * Rectangular shape
  * Keep on redraw
  * Save
@@ -13,3 +13,4 @@
  * Move shape
  * Change shape by drag on actor points
  * Connect lines to shapes
+ * ...
