@@ -11,6 +11,10 @@
  * http://www.w3.org/TR/SVG
  * http://dev.opera.com/articles/view/svg-evolution-2-our-first-steps-into-sv/
 
+=svg icons=
+ * http://commons.wikimedia.org/wiki/Category:SVG_Inkscape_icons
+ * http://raphaeljs.com/icons/
+
 =drag-drop=
  * http://www.tutorialspoint.com/html5/html5_drag_drop.htm
  * http://caniuse.com/#feat=dragndrop
