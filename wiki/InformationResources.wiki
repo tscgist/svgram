@@ -1,7 +1,4 @@
 #summary Some information resources
-Content:
-<wiki:toc max_depth="1" />
-
 =html5=
  * http://www.tutorialspoint.com/html5/index.htm
  * http://www.html5rocks.com/en/tutorials/
@@ -13,7 +10,7 @@ Content:
  * http://www.w3.org/TR/SVG
  * http://dev.opera.com/articles/view/svg-evolution-2-our-first-steps-into-sv/
 
-=drug-drop=
+=drag-drop=
  * http://www.tutorialspoint.com/html5/html5_drag_drop.htm
  * http://caniuse.com/#feat=dragndrop
 
