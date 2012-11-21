@@ -9,3 +9,7 @@
  * Save
  * Print
  * Load
+ * Paper size change by drag at right bottom edge
+ * Move shape
+ * Change shape by drag on actor points
+ * Connect lines to shapes
