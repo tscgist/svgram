@@ -14,6 +14,7 @@
 =svg=
  * http://www.w3.org/TR/SVG
  * http://dev.opera.com/articles/view/svg-evolution-2-our-first-steps-into-sv/
+ * http://graphing.ru/i/svg-examples/
 
 =svg icons=
  * http://commons.wikimedia.org/wiki/Category:SVG_Inkscape_icons
