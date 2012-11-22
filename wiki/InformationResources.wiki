@@ -7,6 +7,10 @@
 =dom=
  * http://reference.sitepoint.com/javascript/Document/getElementById
 
+=jquery=
+ * http://docs.jquery.com/How_jQuery_Works
+ * http://archive.plugins.jquery.com/project/svg
+
 =svg=
  * http://www.w3.org/TR/SVG
  * http://dev.opera.com/articles/view/svg-evolution-2-our-first-steps-into-sv/
