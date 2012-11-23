@@ -1,16 +1,16 @@
 #summary Feature prioritated list
 
 = Features =
-
+In priority order:
  * Paper for diagram drawing - parital
- * Toolbar - parital
+ * Toolbar and icons - parital
  * Rectangular shape
  * Keep on redraw
- * Save
- * Print
- * Load
- * Paper size change by drag at right bottom edge
  * Move shape
  * Change shape by drag on actor points
  * Connect lines to shapes
+ * Save
+ * Paper size change by drag at right bottom edge
+ * Print
+ * Load
  * ...
