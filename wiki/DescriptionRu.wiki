@@ -20,7 +20,7 @@
 
 Дополнительные цели:
  * реализация встраиваемого компонента для [http://en.wikipedia.org/wiki/Rich_Internet_application rich internet applications]
- * реализация библиотеки !JavaScript для работы со сложными блоками (фигурами) в формате [http://www.w3.org/TR/SVG SVG]
+ * реализация библиотеки [http://en.wikipedia.org/wiki/JavaScript JavaScript] для работы со сложными блоками (фигурами) в формате [http://www.w3.org/TR/SVG SVG]
  * реализация расширения для [http://www.mediawiki.org/wiki/Category:Extensions MediaWiki]
  * реализация расширения для [http://www.atlassian.com/software/confluence Confluence]
 
