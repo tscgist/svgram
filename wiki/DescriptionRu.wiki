@@ -12,14 +12,14 @@
 
 Основные цели проекта:
  * Использовать возможности современных браузеров по работе с [http://www.w3.org/TR/SVG SVG] в качестве основы для визуализации и редактирования диаграмм
- * Реализация в качестве клиентского приложения для встраивания в rich internet applications
+ * Реализация в качестве клиентского приложения для встраивания в [http://en.wikipedia.org/wiki/Rich_Internet_application rich internet applications]
  * Реализация на [http://en.wikipedia.org/wiki/JavaScript JavaScript] с минимальным использованием сторонних библиотек
  * Базовые элементы - блоки, связи, текст
  * Экспорт/импорт в [http://www.w3.org/TR/SVG SVG]
  * Тематические библиотеки блоков - [http://en.wikipedia.org/wiki/Unified_Modeling_Language UML], [http://en.wikipedia.org/wiki/Flowchart FlowChart] и другие
 
 Дополнительные цели:
- * реализация встраиваемого компонента для rich client applications
+ * реализация встраиваемого компонента для [http://en.wikipedia.org/wiki/Rich_Internet_application rich internet applications]
  * реализация библиотеки !JavaScript для работы со сложными блоками (фигурами) в формате [http://www.w3.org/TR/SVG SVG]
  * реализация расширения для [http://www.mediawiki.org/wiki/Category:Extensions MediaWiki]
  * реализация расширения для [http://www.atlassian.com/software/confluence Confluence]
