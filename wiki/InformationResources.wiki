@@ -6,6 +6,7 @@
 
 =dom=
  * http://reference.sitepoint.com/javascript/Document/getElementById
+ * http://www.quirksmode.org/dom/w3c_cssom.html
 
 =jquery=
  * http://docs.jquery.com/How_jQuery_Works
