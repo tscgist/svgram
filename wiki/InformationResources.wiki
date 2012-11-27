@@ -49,6 +49,7 @@
  * http://d3js.org/
 
 =other=
+ * http://diffxml.sourceforge.net/
  * http://stackoverflow.com/questions/9655594/animation-svg-or-canvas
  * http://seb.ly/2009/09/simple-3d-in-html5-canvas/
  * http://www.truehitdesigns.com/web-design-news/html5-javascript-opengl-upcoming-3d-internet-technologies-business/
