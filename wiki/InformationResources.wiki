@@ -1,17 +1,4 @@
 #summary Some information resources
-=html5=
- * http://www.tutorialspoint.com/html5/index.htm
- * http://www.html5rocks.com/en/tutorials/
- * http://caniuse.com
-
-=dom=
- * http://reference.sitepoint.com/javascript/Document/getElementById
- * http://www.quirksmode.org/dom/w3c_cssom.html
-
-=jquery=
- * http://docs.jquery.com/How_jQuery_Works
- * http://archive.plugins.jquery.com/project/svg
-
 =svg=
  * http://www.w3.org/TR/SVG
  * http://dev.opera.com/articles/view/svg-evolution-2-our-first-steps-into-sv/
@@ -25,6 +12,10 @@
 =svg filters=
  * http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters
 
+=svg libs=
+ * http://raphaeljs.com/
+ * http://d3js.org/
+
 =animation=
  * zoom: http://ie.microsoft.com/testdrive/Graphics/OrganizationChart/Default.xhtml
 
@@ -32,21 +23,30 @@
  * http://www.tutorialspoint.com/html5/html5_drag_drop.htm
  * http://caniuse.com/#feat=dragndrop
 
-=file writing=
- * http://www.w3.org/TR/file-writer-api/
- * http://caniuse.com/filesystem
+=html5=
+ * http://www.tutorialspoint.com/html5/index.htm
+ * http://www.html5rocks.com/en/tutorials/
+ * http://caniuse.com
+
+=dom=
+ * http://reference.sitepoint.com/javascript/Document/getElementById
+ * http://www.quirksmode.org/dom/w3c_cssom.html
 
 =unit testing=
  * http://qunitjs.com/
  * https://github.com/bitzesty/qunit-mock
 
+=jquery=
+ * http://docs.jquery.com/How_jQuery_Works
+ * http://archive.plugins.jquery.com/project/svg
+
+=file writing=
+ * http://www.w3.org/TR/file-writer-api/
+ * http://caniuse.com/filesystem
+
 =in-browser graphic editors=
  * http://code.google.com/p/fnisvgeditor/
  * https://code.google.com/p/svg-edit/
-
-=svg libs=
- * http://raphaeljs.com/
- * http://d3js.org/
 
 =other=
  * http://diffxml.sourceforge.net/
