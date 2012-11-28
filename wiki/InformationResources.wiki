@@ -53,6 +53,7 @@ node.js hosting:
  * http://nodester.com/
  * http://www.heroku.com/
  * http://nodejitsu.com/
+ * http://www.clodo.ru/scale-server/review/
 
 =dom=
  * http://reference.sitepoint.com/javascript/Document/getElementById
