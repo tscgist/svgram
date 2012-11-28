@@ -58,6 +58,9 @@
  * http://nodejitsu.com/
  * http://www.clodo.ru/scale-server/review/
 
+==web apps==
+ * https://github.com/rogerwang/node-webkit
+
 =dom=
  * http://reference.sitepoint.com/javascript/Document/getElementById
  * http://www.quirksmode.org/dom/w3c_cssom.html
