@@ -37,8 +37,11 @@
  * http://datatracker.ietf.org/doc/rfc6455/?include_text=1
 
 rpc:
- * http://code.google.com/p/protobuf-for-node/
  * https://github.com/substack/dnode
+ * https://github.com/substack/node-browserify
+ * http://coffeescript.org/
+
+ * http://code.google.com/p/protobuf-for-node/
  * https://github.com/rtomayko/node-bertrpc
  * https://github.com/bpot/node-msgpack-rpc
  * https://github.com/networkimprov/websocket.MQ
