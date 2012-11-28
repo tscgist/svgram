@@ -36,7 +36,7 @@
  * http://www.websocket.org/
  * http://datatracker.ietf.org/doc/rfc6455/?include_text=1
 
-rpc:
+node.js rpc:
  * https://github.com/substack/dnode
  * https://github.com/substack/node-browserify
  * http://coffeescript.org/
@@ -47,6 +47,12 @@ rpc:
  * https://github.com/networkimprov/websocket.MQ
  * https://github.com/Frans-Willem/IPCNode
  * http://longlho.github.com/node-jsonrpc/
+
+node.js hosting:
+ * http://www.appfog.com/products/appfog/jumpstarts/
+ * http://nodester.com/
+ * http://www.heroku.com/
+ * http://nodejitsu.com/
 
 =dom=
  * http://reference.sitepoint.com/javascript/Document/getElementById
