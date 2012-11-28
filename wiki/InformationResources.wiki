@@ -29,14 +29,17 @@
  * http://caniuse.com
 
 =websockets and node.js=
+==websockets==
  * http://socket.io/
- * http://nodejs.org/api/
- * http://blog.beyondfog.com/websockets-and-more-20-awesome-node-js-npm-modules-we-use-every-day/
  * http://dev.w3.org/html5/websockets/
  * http://www.websocket.org/
  * http://datatracker.ietf.org/doc/rfc6455/?include_text=1
 
-node.js rpc:
+==node.js==
+ * http://nodejs.org/api/
+ * http://blog.beyondfog.com/websockets-and-more-20-awesome-node-js-npm-modules-we-use-every-day/
+
+==node.js rpc==
  * https://github.com/substack/dnode
  * https://github.com/substack/node-browserify
  * http://coffeescript.org/
@@ -48,7 +51,7 @@ node.js rpc:
  * https://github.com/Frans-Willem/IPCNode
  * http://longlho.github.com/node-jsonrpc/
 
-node.js hosting:
+==node.js hosting==
  * http://www.appfog.com/products/appfog/jumpstarts/
  * http://nodester.com/
  * http://www.heroku.com/
