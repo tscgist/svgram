@@ -23,6 +23,8 @@
  * реализация библиотеки [http://en.wikipedia.org/wiki/JavaScript JavaScript] для работы со сложными блоками (фигурами) в формате [http://www.w3.org/TR/SVG SVG]
  * реализация расширения для [http://www.mediawiki.org/wiki/Category:Extensions MediaWiki]
  * реализация расширения для [http://www.atlassian.com/software/confluence Confluence]
+ * реализация совместного редактирования диаграмм с использованием [http://en.wikipedia.org/wiki/WebSocket websocket]/[http://socket.io/ Socket.io] API и сервера [http://nodejs.org/api/ node.js]
+
 
 Лицензия: [http://www.opensource.org/licenses/mit-license.php MIT]
 
