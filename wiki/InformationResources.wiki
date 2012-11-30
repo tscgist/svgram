@@ -38,6 +38,7 @@
 ==node.js==
  * http://nodejs.org/api/
  * http://blog.beyondfog.com/websockets-and-more-20-awesome-node-js-npm-modules-we-use-every-day/
+ * https://github.com/WindowsAzure/azure-sdk-for-node
 
 ==node.js rpc==
  * https://github.com/substack/dnode
