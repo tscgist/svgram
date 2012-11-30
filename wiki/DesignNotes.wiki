@@ -10,7 +10,7 @@ The Shape abstraction level should be separated and designed as JS class.
 
 Each Shape object should have reference to SVG DOM node.
 
-To connect Shapes to svg each shape node must have unique identifier - attribute id="<generated-on-creation-uid>".
+To connect Shapes to svg each shape node must have unique identifier - attribute id="generated-on-creation-uid".
 
 Shape operations
 * construct
@@ -22,12 +22,13 @@ Shape properties
 * style
 * Knot collection
 
+Inter-Lines connection
+* LineSplitter shape
+
 = Line abstraction = 
 
 Line properties:
 * style
-* extension: Knot collection - for line-to-line connection
-** alternative: LineKnot shape
 
 Line operations:
 * construct
