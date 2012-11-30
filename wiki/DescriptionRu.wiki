@@ -24,6 +24,7 @@
  * реализация расширения для [http://www.mediawiki.org/wiki/Category:Extensions MediaWiki]
  * реализация расширения для [http://www.atlassian.com/software/confluence Confluence]
  * реализация совместного редактирования диаграмм с использованием [http://en.wikipedia.org/wiki/WebSocket websocket]/[http://socket.io/ Socket.io] API и сервера [http://nodejs.org/api/ node.js]
+ * реализация в виде модуля [https://github.com/rogerwang/node-webkit node-webkit]
 
 
 Лицензия: [http://www.opensource.org/licenses/mit-license.php MIT]
