@@ -40,6 +40,9 @@
  * http://blog.beyondfog.com/websockets-and-more-20-awesome-node-js-npm-modules-we-use-every-day/
  * https://github.com/WindowsAzure/azure-sdk-for-node
 
+==async==
+ * https://github.com/caolan/async
+
 ==node.js rpc==
  * https://github.com/substack/dnode
  * https://github.com/substack/node-browserify
