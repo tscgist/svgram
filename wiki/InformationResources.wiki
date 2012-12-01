@@ -85,6 +85,7 @@
 =in-browser graphic editors=
  * http://code.google.com/p/fnisvgeditor/
  * https://code.google.com/p/svg-edit/
+ * http://prezi.com
 
 =other=
  * http://diffxml.sourceforge.net/
