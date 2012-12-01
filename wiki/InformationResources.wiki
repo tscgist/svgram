@@ -69,6 +69,7 @@
 =unit testing=
  * http://qunitjs.com/
  * https://github.com/bitzesty/qunit-mock
+ * http://visionmedia.github.com/mocha/
 
 =jquery=
  * http://docs.jquery.com/How_jQuery_Works
