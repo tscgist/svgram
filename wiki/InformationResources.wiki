@@ -88,6 +88,7 @@
  * http://prezi.com
 
 =other=
+ * https://github.com/ramil-k/necromancer/blob/master/src/core.js
  * http://diffxml.sourceforge.net/
  * http://stackoverflow.com/questions/9655594/animation-svg-or-canvas
  * http://seb.ly/2009/09/simple-3d-in-html5-canvas/
