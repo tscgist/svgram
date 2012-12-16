@@ -2,7 +2,7 @@
 
 =2012.12.16=
  * Make 'About' dialog (button 'svgram')
- * Drag by knotes in only left-right or up-down directions
+ * Resize via drag by knotes in only left-right or up-down directions
  * Restore color base functionality
 
 =2012.12.15=
