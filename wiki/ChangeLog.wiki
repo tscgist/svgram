@@ -1,7 +1,7 @@
 #summary Implemented features
 
 =2012.12.16=
- * Make 'About' dialog (buttol 'svgram')
+ * Make 'About' dialog (button 'svgram')
  * Drag by knotes in only left-right or up-down directions
  * Restore color base functionality
 
@@ -29,7 +29,7 @@
  * Toolbar and icons
  * Rectangular shape
  * Line shape
- * Text shape - partial
+ * Text shape
  * Move shape
  * Change shape by drag on actor points
  * Connect lines to shapes
