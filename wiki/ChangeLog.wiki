@@ -1,10 +1,12 @@
 #summary Implemented features
 
 =2012.12.16=
+ * Make 'About' dialog (buttol 'svgram')
  * Drag by knotes in only left-right or up-down directions
  * Restore color base functionality
 
 =2012.12.15=
+ * Rearrange metro view
  * Grouping by dragging shapes on creation
  ** now it is possible to drag new text to block shape, and it will be grouped with one
  ** work with all shapes
@@ -13,6 +15,8 @@
 
 
 =2012.12.08=
+ * Text editing
+ ** use [http://dhtmlx.github.com/message/ dhtmlx-message] dialog library
  * Refactor internal structures
  ** switch to new Shape abstraction
  ** switch to [http://pivotal.github.com/jasmine/ Jasmine] unit testing framework
