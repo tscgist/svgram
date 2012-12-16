@@ -13,6 +13,7 @@ In priority order:
  * line properties: width
  * line properties: dashed/dotted patterns
  * line properties: solid/outlined
+ * right-angled lines, keep routing on shape move/resize
  * export for IE (now not work)
  * add on/of grid snapping
  * Keep on redraw
