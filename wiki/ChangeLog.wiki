@@ -2,8 +2,7 @@
 
 =2012.12.16=
  * Drag by knotes in only left-right or up-down directions
- * Restore color functionality
- 
+ * Restore color base functionality
 
 =2012.12.15=
  * Grouping by dragging shapes on creation
@@ -14,8 +13,12 @@
 
 
 =2012.12.08=
+ * Refactor internal structures
+ ** switch to new Shape abstraction
+ ** switch to [http://pivotal.github.com/jasmine/ Jasmine] unit testing framework
 
 =2012.12.01=
+ * Refactor internal structures
 
 =2012.11.24=
  * Paper for diagram drawing
