@@ -2,6 +2,7 @@
 
 = Features =
 In priority order:
+ * refactor Control/Paper, abstract appropriate classes
  * Keep on redraw
  * Load
  * ...
