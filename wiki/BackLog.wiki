@@ -5,6 +5,9 @@ In priority order:
  * multiline text
  * resize paper
  * zoom scale by mouse wheel 
+ * group shapes selection, operations on selections (move, delete, color)
+ * edit shape properties: color
+ * export for IE (now not work)
  * Keep on redraw
  * Load
  * ...
