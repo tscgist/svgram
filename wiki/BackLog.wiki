@@ -2,7 +2,6 @@
 
 In priority order:
  * tdd/refactor Control/Paper, abstract appropriate classes
- * limit minimal size of shapes, check on resize
  * multiline text
   * need use 'textarea' to edit and 'tspan' to render, auto-translate newlines to tspan's
  * resize paper
