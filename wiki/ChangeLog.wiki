@@ -1,6 +1,7 @@
 #summary Implemented features
 
 =2012.12.16=
+ * limit minimal size of shapes, check on resize
  * Make 'About' dialog (button 'svgram')
  * Resize via drag by knotes in only left-right or up-down directions
  * Restore color base functionality
