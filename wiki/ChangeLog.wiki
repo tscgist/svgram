@@ -14,6 +14,10 @@
  * Hide spec elements (resizers, knots) in normal mode. Show only when shape is selected
 
 
+=2012.12.09=
+ * Auto-connect Line when drag to rect's knot on creation
+ ** auto-orient and adjust connected line
+
 =2012.12.08=
  * Text editing
  ** use [http://dhtmlx.github.com/message/ dhtmlx-message] dialog library
