@@ -1,0 +1,31 @@
+#summary Implemented features
+
+=2012.12.16=
+ * Drag by knotes in only left-right or up-down directions
+ * Restore color functionality
+ 
+
+=2012.12.15=
+ * Grouping by dragging shapes on creation
+ ** now it is possible to drag new text to block shape, and it will be grouped with one
+ ** work with all shapes
+ ** grouped shapes are moved together when the parent shape is moved
+ * Hide spec elements (resizers, knots) in normal mode. Show only when shape is selected
+
+
+=2012.12.08=
+
+=2012.12.01=
+
+=2012.11.24=
+ * Paper for diagram drawing
+ * Toolbar and icons
+ * Rectangular shape
+ * Line shape
+ * Text shape - partial
+ * Move shape
+ * Change shape by drag on actor points
+ * Connect lines to shapes
+ * Paper size change by drag at right bottom edge
+ * Save
+ * Print
