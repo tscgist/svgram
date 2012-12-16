@@ -1,8 +1,10 @@
-#summary Features to implement
+#summary Features/tasks work list
 
-= Features =
 In priority order:
- * refactor Control/Paper, abstract appropriate classes
+ * tdd/refactor Control/Paper, abstract appropriate classes
+ * multiline text
+ * resize paper
+ * zoom scale by mouse wheel 
  * Keep on redraw
  * Load
  * ...
