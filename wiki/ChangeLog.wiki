@@ -1,4 +1,6 @@
 #summary Implemented features
+=2012.12.31=
+ * add paper resizing
 
 =2012.12.16=
  * limit minimal size of shapes, check on resize
