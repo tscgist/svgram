@@ -4,7 +4,6 @@ In priority order:
  * tdd/refactor Control/Paper, abstract appropriate classes
  * multiline text
   * need use 'textarea' to edit and 'tspan' to render, auto-translate newlines to tspan's
- * resize paper
  * zoom scale by mouse wheel 
  * group shapes selection, operations on selections (move, delete, color)
  * edit shape properties: color
