@@ -66,6 +66,7 @@
  * https://github.com/rogerwang/node-webkit
 
 =dom=
+ * http://learn.javascript.ru/
  * http://reference.sitepoint.com/javascript/Document/getElementById
  * http://www.quirksmode.org/dom/w3c_cssom.html
 
