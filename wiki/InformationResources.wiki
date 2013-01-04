@@ -77,6 +77,7 @@
 =jquery=
  * http://docs.jquery.com/How_jQuery_Works
  * http://archive.plugins.jquery.com/project/svg
+ * http://projects.jga.me/jquery-builder/
  * http://zeptojs.com/
 
 =file writing=
