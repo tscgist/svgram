@@ -65,6 +65,7 @@
 ==web apps==
  * https://github.com/rogerwang/node-webkit
  * http://todomvc.com/
+ * http://requirejs.org/
 
 =dom=
  * http://learn.javascript.ru/
