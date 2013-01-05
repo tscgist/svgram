@@ -8,7 +8,7 @@
   * get rid of binding events in .html
 
 =2012.12.31=
- * add paper resizing
+ * implement paper resizing
 
 =2012.12.16=
  * limit minimal size of shapes, check on resize
