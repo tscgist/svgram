@@ -1,7 +1,6 @@
 #summary Features/tasks work list
 
 In priority order:
- * tdd/refactor Control/Paper, abstract appropriate classes
  * multiline text
   * need use 'textarea' to edit and 'tspan' to render, auto-translate newlines to tspan's
  * zoom scale by mouse wheel 
